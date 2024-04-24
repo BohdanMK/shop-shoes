@@ -1,1 +1,0 @@
-import{u as t,c as a,e as m,m as l}from"./index-1wE9o1W-.js";import{d as o,k as n}from"./index-o0EK4X1e.js";function r(){const e=o({emailField:"",passField:""}),s=n(()=>({emailField:{email:a.withMessage("Некоректний email",m)},passField:{minLength:a.withMessage("Мінімальна довжина 8 символів",l(8))}})),i=t(s,e.value);return{data:e,v:i}}export{r as u};
