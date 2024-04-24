@@ -5,7 +5,7 @@ import path from 'path'
 // https://vitejs.dev/config/
 
 export default defineConfig({
-  base: '',
+  base: 'https://bohdanmk.github.io/shoes-shop',
   plugins: [vue()],
   resolve: {
     alias: {
