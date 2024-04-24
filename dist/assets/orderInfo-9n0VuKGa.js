@@ -1,1 +1,0 @@
-import{Q as e,$ as t}from"./index-ZqUB2-C7.js";const s=e("orderInfo",()=>{const r=t({userInfo:{},productList:{}});return{orderData:r,saveOrderData:()=>{localStorage.setItem("orderData",JSON.stringify(r))}}});export{s as u};
