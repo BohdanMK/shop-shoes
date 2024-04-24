@@ -10,37 +10,37 @@
         {
             id: 1,
             name: 'Nike',
-            icon: '/src/assets/images/brands/icons8-nike.svg',
+            icon: '/shoes-shop/src/assets/images/brands/icons8-nike.svg',
             link: 'https://www.nike.com/',
         },
         {
             id: 2,
             name: 'Adidas',
-            icon: '/src/assets/images/brands/adidas.svg',
+            icon: '/shoes-shop/src/assets/images/brands/adidas.svg',
             link: 'https://www.adidas.com/',
         },
         {
             id: 3,
             name: 'Puma',
-            icon: '/src/assets/images/brands/puma.png',
+            icon: '/shoes-shop/src/assets/images/brands/puma.png',
             link: 'https://www.puma.com/',
         },
         {
             id: 4,
             name: 'Reebok',
-            icon: '/src/assets/images/brands/reebok-48.png',
+            icon: '/shoes-shop/src/assets/images/brands/reebok-48.png',
             link: 'https://www.reebok.com/',
         },
         {
             id: 5,
             name: 'New Balance',
-            icon: '/src/assets/images/brands/icons8.png',
+            icon: '/shoes-shop/src/assets/images/brands/icons8.png',
             link: 'https://www.newbalance.com/',
         },
         {
             id: 6,
             name: 'Vans',
-            icon: '/src/assets/images/brands/vans.png',
+            icon: '/shoes-shop/src/assets/images/brands/vans.png',
             link: 'https://www.vans.com/',
         },
     ]);
@@ -97,7 +97,7 @@
                 <HeaderBlockLogo
                     title="REACT SNEAKERS"
                     subTitle="Магазин лучших кроссовок"
-                    image="/src/assets/images/logo.png"
+                    image="/shoes-shop/src/assets/images/logo.png"
 
                 />
             </div>

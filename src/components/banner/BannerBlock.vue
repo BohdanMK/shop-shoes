@@ -8,13 +8,13 @@
             id: 1,
             label: 'Just do it! Buy now',
             product_id: '414',
-            background: '/src/assets/images/banner-1.jpg',
+            background: '/shoes-shop/src/assets/images/banner-1.jpg',
         },
         {
             id: 2,
             label: 'Stan Smith, Forever!',
             product_id: '141',
-            background: '/src/assets/images/banner-2.jpg',
+            background: '/shoes-shop/src/assets/images/banner-2.jpg',
         },
     ]);
 

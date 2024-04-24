@@ -19,13 +19,13 @@
 
 
 <template>
-    <a href="/" class="header-logo flex gap-x-7 items-center">
+    <router-link to="/home" class="header-logo flex gap-x-7 items-center">
         <img :src="image" alt="">
         <div>
             <h4 class="header-logo__title font-bold"> {{ title }}</h4>
             <span class="header-logo__subtitle">{{ subTitle }}</span>
         </div>
-    </a>
+    </router-link >
 </template>
 
 <style scoped>

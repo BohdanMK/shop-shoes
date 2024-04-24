@@ -86,14 +86,14 @@
             </router-link>
         </div>
         <div class="product__body mb-2">
-            <a href="/" class="text-sm uppercase">
+            <router-link :to="`/product/${id}`" class="text-sm uppercase">
                 <h4> {{ name }}</h4>
-            </a>
-            <a href="/">
+            </router-link>
+            <router-link :to="`/product/${id}`">
                 <h6 class="text-xs font-medium cursor-pointer">
                     {{ manufacturer}}
                 </h6>
-            </a>
+            </router-link>
         </div>
         <div class="product__footer flex justify-between">
             <div class="">
