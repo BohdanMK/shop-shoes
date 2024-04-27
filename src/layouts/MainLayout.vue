@@ -8,8 +8,8 @@
     import SearchPopUp from '@/components/popup/SearchPopUp.vue';
     import WishListPopUp from '@/components/popup/WishListPopUp.vue';
     import CategoryPopUp from '@/components/popup/CategoryPopUp.vue';
-import SuccessPopUp from '../components/popup/SuccessPopUp.vue';
-import ErrorPopUp from '../components/popup/ErrorPopUp.vue';
+    import SuccessPopUp from '../components/popup/SuccessPopUp.vue';
+    import ErrorPopUp from '../components/popup/ErrorPopUp.vue';
 
 
     const openModal = ref(false);
